@@ -1,2 +1,2 @@
-# -docker-arm-scala-sbt-
+# docker-arm-scala-sbt
 Tested on the ODroid-XU4
